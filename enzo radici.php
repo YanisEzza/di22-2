@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scaIe=1.0">
     <title>enzo</title>
 </head>
 <body>
@@ -12,7 +12,7 @@
     </h1>
 
     <h2>
-        test de comit n°2
+        test de comit n°2 
     </h2>
 </body>
 
