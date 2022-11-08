@@ -24,6 +24,5 @@ p32.addEventListener('mouseover', (e)=>{
 
 let p2 = document.getElementById("p2");
 
-p1.addEventListener('mouseover', (e)=>{
-    console.log("salut c'est jules");
+p1.
 });
