@@ -8,15 +8,18 @@ pLucas.addEventListener('mouseover', (e) => {
 /* Loup */
 
 let pLoup = document.getElementById("pLoup");
-pLucas.addEventListener('mouseover', (e) => {
+Loup.addEventListener('mouseover', (e) => {
     console.log("Holla la miff");
 })
 
 
 /* Pierre */
 
-let plPierre = document.getElementById("plPierre");
-pLucas.addEventListener('mouseover', (e) => {
+let lPierre = document.getElementById("lPierre");
+lPierre.addEventListener('mouseover', (e) => {
     console.log("Holla les gars");
 })
+
+
+
 
