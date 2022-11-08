@@ -1,21 +1,23 @@
-P.addEventListener('mouseover', (e) => {
+let p = document.getElementById("p");
+
+p.addEventListener('mouseover', (e) => {
     console.log("Bonjour");
 });
 
-let Y = document.getElementById("Y");
+let y = document.getElementById("y");
 
-Y.addEventListener('mouseover', (e) => {
+y.addEventListener('mouseover', (e) => {
     console.log("Bonjour");
 });
 
-let E = document.getElementById("E");
+let e = document.getElementById("e");
 
-E.addEventListener('mouseover', (e) => {
+e.addEventListener('mouseover', (e) => {
     console.log("Bonjour");
 });
 
-let A = document.getElementById("A");
+let a = document.getElementById("a");
 
-A.addEventListener('mouseover', (e) => {
+a.addEventListener('mouseover', (e) => {
     console.log("Bonjour");
 });
