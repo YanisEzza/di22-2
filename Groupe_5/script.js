@@ -7,6 +7,11 @@ pLucas.addEventListener('mouseover', (e) => {
 
 /* Loup */
 
+let Loup = document.getElementById("Loup");
+Loup.addEventListener('mouseover', (e) => {
+    console.log("sltlateam");
+})
+
 
 
 /* Pierre */
