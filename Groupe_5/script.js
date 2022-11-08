@@ -7,11 +7,16 @@ pLucas.addEventListener('mouseover', (e) => {
 
 /* Loup */
 
+let pLoup = document.getElementById("pLoup");
+pLucas.addEventListener('mouseover', (e) => {
+    console.log("Holla la miff");
+})
 
 
 /* Pierre */
-let p1 = document.getElementById("lPierre");
 
-p1.addEventListener('mouseover', (e)=>{
-    console.log("Bonjour c'est Evan");
-});
+let plPierre = document.getElementById("plPierre");
+pLucas.addEventListener('mouseover', (e) => {
+    console.log("Holla les gars");
+})
+
