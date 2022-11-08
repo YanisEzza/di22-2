@@ -12,8 +12,8 @@
     </h1>
 
     <h2>
-        test de comit n°2
-    </h2>
+        test de comit n°2 
+    </h2;;>
 </body>
 
 </html>
