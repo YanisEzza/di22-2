@@ -1,9 +1,11 @@
 /* Lucas */
-
+let pLucas = document.getElementById("pLucas");
+pLucas.addEventListener('mouseover', (e) => {
+    console.log("Holla");
+})
 
 
 /* Loup */
 
-
-
-/* Pierre */
+let Loup = document.getElementById("Loup");
+Loup.addEv
