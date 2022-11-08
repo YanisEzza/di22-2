@@ -1,6 +1,9 @@
-let pAB = document.getElementById("pAB");
-
-pAB.addEventListener('mouseover', (e) => {
+p1.addEventListener('mouseover', (e)=>{
+    console.log("Salut c'est Evan");
+});
+pAB.addEventListener('mouseover', (e)=>{
+    console.log("Salut c'est Antoine");
+});
   
 p32.addEventListener('mouseover', (e)=>{
     console.log("Salut c'est Damien");
