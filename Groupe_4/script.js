@@ -1,3 +1,4 @@
+//Antoine
 let pAB = document.getElementById("pAB");
 
 pAB.addEventListener('mouseover', (e) => {
@@ -5,7 +6,7 @@ pAB.addEventListener('mouseover', (e) => {
 });
 
 
-
+//Evan
 let p1 = document.getElementById("p1");
 
 p1.addEventListener('mouseover', (e)=>{
@@ -13,7 +14,7 @@ p1.addEventListener('mouseover', (e)=>{
 });
 
 
-
+//Damien
 let p32 = document.getElementById("p32");
 
 p32.addEventListener('mouseover', (e)=>{
@@ -21,7 +22,7 @@ p32.addEventListener('mouseover', (e)=>{
 });
 
 
-
+//Jules
 let p2 = document.getElementById("p2");
 
 p2.addEventListener('mouseover', (e)=>{
