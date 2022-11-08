@@ -8,7 +8,7 @@ pLucas.addEventListener('mouseover', (e) => {
 /* Loup */
 
 let pLoup = document.getElementById("pLoup");
-pLucas.addEventListener('mouseover', (e) => {
+pLoup.addEventListener('mouseover', (e) => {
     console.log("Holla la miff");
 })
 
@@ -16,7 +16,7 @@ pLucas.addEventListener('mouseover', (e) => {
 /* Pierre */
 
 let plPierre = document.getElementById("plPierre");
-pLucas.addEventListener('mouseover', (e) => {
+plPierre.addEventListener('mouseover', (e) => {
     console.log("Holla les gars");
 })
 
