@@ -15,8 +15,8 @@ Loup.addEventListener('mouseover', (e) => {
 
 /* Pierre */
 
-let plPierre = document.getElementById("plPierre");
-plPierre.addEventListener('mouseover', (e) => {
+let lPierre = document.getElementById("lPierre");
+lPierre.addEventListener('mouseover', (e) => {
     console.log("Holla les gars");
 })
 
